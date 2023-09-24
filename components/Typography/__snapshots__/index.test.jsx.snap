@@ -1,0 +1,131 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Typography H1 1`] = `
+[
+  <style
+    dangerouslySetInnerHTML={
+      {
+        "__html": ".css-n9tuf1-StyledTypography-getStyles{font-size:em;}",
+      }
+    }
+    data-emotion="css n9tuf1-StyledTypography-getStyles"
+  />,
+  <H1
+    className="css-n9tuf1-StyledTypography-getStyles e1imt8qb0"
+    variant="H1"
+  >
+    Hello World
+  </H1>,
+]
+`;
+
+exports[`Typography H2 1`] = `
+[
+  <style
+    dangerouslySetInnerHTML={
+      {
+        "__html": ".css-n9tuf1-StyledTypography-getStyles{font-size:em;}",
+      }
+    }
+    data-emotion="css n9tuf1-StyledTypography-getStyles"
+  />,
+  <H2
+    className="css-n9tuf1-StyledTypography-getStyles e1imt8qb0"
+    variant="H2"
+  >
+    Hello World
+  </H2>,
+]
+`;
+
+exports[`Typography H3 1`] = `
+[
+  <style
+    dangerouslySetInnerHTML={
+      {
+        "__html": ".css-n9tuf1-StyledTypography-getStyles{font-size:em;}",
+      }
+    }
+    data-emotion="css n9tuf1-StyledTypography-getStyles"
+  />,
+  <H3
+    className="css-n9tuf1-StyledTypography-getStyles e1imt8qb0"
+    variant="H3"
+  >
+    Hello World
+  </H3>,
+]
+`;
+
+exports[`Typography H4 1`] = `
+[
+  <style
+    dangerouslySetInnerHTML={
+      {
+        "__html": ".css-n9tuf1-StyledTypography-getStyles{font-size:em;}",
+      }
+    }
+    data-emotion="css n9tuf1-StyledTypography-getStyles"
+  />,
+  <H4
+    className="css-n9tuf1-StyledTypography-getStyles e1imt8qb0"
+    variant="H4"
+  >
+    Hello World
+  </H4>,
+]
+`;
+
+exports[`Typography H5 1`] = `
+[
+  <style
+    dangerouslySetInnerHTML={
+      {
+        "__html": ".css-n9tuf1-StyledTypography-getStyles{font-size:em;}",
+      }
+    }
+    data-emotion="css n9tuf1-StyledTypography-getStyles"
+  />,
+  <H5
+    className="css-n9tuf1-StyledTypography-getStyles e1imt8qb0"
+    variant="H5"
+  >
+    Hello World
+  </H5>,
+]
+`;
+
+exports[`Typography H6 1`] = `
+[
+  <style
+    dangerouslySetInnerHTML={
+      {
+        "__html": ".css-n9tuf1-StyledTypography-getStyles{font-size:em;}",
+      }
+    }
+    data-emotion="css n9tuf1-StyledTypography-getStyles"
+  />,
+  <H6
+    className="css-n9tuf1-StyledTypography-getStyles e1imt8qb0"
+    variant="H6"
+  >
+    Hello World
+  </H6>,
+]
+`;
+
+exports[`Typography Renders correctly 1`] = `
+[
+  <style
+    dangerouslySetInnerHTML={
+      {
+        "__html": ".css-n9tuf1-StyledTypography-getStyles{font-size:em;}",
+      }
+    }
+    data-emotion="css n9tuf1-StyledTypography-getStyles"
+  />,
+  <div
+    className="css-n9tuf1-StyledTypography-getStyles e1imt8qb0"
+  />,
+]
+`;
