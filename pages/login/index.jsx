@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { css } from '@emotion/react'
-import { useDispatch, useSelector } from 'react-redux'
+import { useDispatch } from 'react-redux'
 
 import { AUTH_LOGIN } from 'store/actions/auth'
 import PageTitle from 'containers/Layout/PageTitle'
@@ -59,7 +59,6 @@ const styles = css`
 
 function Login() {
   const dispatch = useDispatch()
-  const auth = useSelector((state) => state.auth)
 
   const [email, setEmail] = useState('')
   const [password, setPassword] = useState('')
