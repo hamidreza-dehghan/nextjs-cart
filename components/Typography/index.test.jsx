@@ -1,6 +1,7 @@
+/* eslint-disable no-undef */
 import React from 'react'
 import renderer from 'react-test-renderer'
-import Typography from '.'
+import { Typography } from '.'
 
 describe('Typography', () => {
   test('Renders correctly', () => {
